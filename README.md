@@ -1,7 +1,7 @@
 ### Hi 👋
-🐥 I'm Sangho Ha.
-🐤 I'm junior in Chungnam National University.
-🐣 my majoring is Computer Science and Engineering.
+🐥 I'm Sangho Ha. <br>
+🐤 I'm junior in Chungnam National University. <br>
+🐣 my majoring is Computer Science and Engineering. 
 
 
 <!--
