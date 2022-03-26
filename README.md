@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi 👋
+🐥 I'm Sangho Ha.
+🐤 I'm junior in Chungnam National University.
+🐣 my majoring is Computer Science and Engineering.
+
 
 <!--
 **sangho0804/sangho0804** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
