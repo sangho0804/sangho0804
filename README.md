@@ -4,7 +4,7 @@
 - 🐥 my majoring is Computer Science and Engineering. <br>
 - 🐓 I'm Undergraduate researcher in CNU Eslab.
 <br>
-### That is...
+### That is... 🦍
 <br>
 - 🐧 my blog -> https://strangecat.tistory.com/ <br>
 - 🐧 my email -> kijqq15@gmail.com <br>
