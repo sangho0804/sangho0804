@@ -2,7 +2,7 @@
 - 🐣 I'm Sangho Ha. <br>
 - 🐤 I'm junior in Chungnam National University. <br>
 - 🐥 my majoring is Computer Science and Engineering. <br>
-- 🐓 I'm Undergraduate researcher in CNU Eslab.
+- 🐓 I'm Undergraduate researcher in CNU Eslab (embedded system lab).
 
 ### That is... 🦍
 
