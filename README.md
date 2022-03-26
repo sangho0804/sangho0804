@@ -6,7 +6,7 @@
 
 ### That is... 🦍
 
-- 🐧 my blog -> https://strangecat.tistory.com/ <br>
+- 🐧 my blog  -> https://strangecat.tistory.com/ <br>
 - 🐧 my email -> kijqq15@gmail.com <br>
 
 <!--
