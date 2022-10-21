@@ -7,7 +7,7 @@
 ### That is... 🦍
 
 - 🐧 my blog  -> https://strangecat.tistory.com/ <br>
-- 🐧 my email -> kijqq15@gmail.com <br>
+- 🐧 my email -> kijqq15@gmail.com / sangho.ha.0804@gmail.com <br>
 
 <!--
 **sangho0804/sangho0804** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
