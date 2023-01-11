@@ -1,6 +1,6 @@
 ### Hi 👋
 - 🐣 I'm Sangho Ha. <br>
-- 🐤 I'm junior in Chungnam National University. <br>
+- 🐤 I'm Senior in Chungnam National University. <br>
 - 🐥 my majoring is Computer Science and Engineering. <br>
 - 🐓 I'm Undergraduate research student in CNU Eslab (embedded system lab).
 
